@@ -1,4 +1,13 @@
 ## Oiii meu nome é kroiz e eu sou aprendiz de programador...
+</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zKroiz&color=yellow" alt="Profile views" /> </p>
+
+<div>
+  <img
+    src="https://i.imgur.com/1ZvVkDc.gif" 
+    alt="mario coding"
+    />
+</div>
 <div align="center">
   <a href="https://github.com/zKroiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zKroiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
